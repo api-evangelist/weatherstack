@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
 common:
+  - type: DomainSecurity
+    url: security/weatherstack-domain-security.yml
   - type: Website
     url: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
   - type: PublicAPIsListing
