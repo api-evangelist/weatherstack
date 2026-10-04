@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/weatherstack.png
 name: Weatherstack
 description: "Real-Time & Historical World Weather Data API"
-url: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+url: https://weatherstack.com/
 specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
@@ -39,17 +39,16 @@ apis:
   - name: Weatherstack
     description: "Real-Time & Historical World Weather Data API"
     humanURL: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
-    baseURL: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
     tags:
       - Weather
     properties:
       - type: Documentation
-        url: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+        url: https://weatherstack.com/
 common:
   - type: DomainSecurity
     url: security/weatherstack-domain-security.yml
   - type: Website
-    url: https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+    url: https://weatherstack.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
 maintainers:
